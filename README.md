@@ -7,7 +7,7 @@
 
 <img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
 
-It is an integration module between Hyva Theme and [Magento 2 Blog](https://magefan.com/magento2-blog-extension) by Magefan.
+It is an integration module between Hyva Theme and [Magento 2 Blog Plus](https://magefan.com/magento2-blog-extension/pricing) by Magefan.
 
 <a href="https://github.com/magefan/hyva-theme-blog-plus/archive/refs/heads/main.zip"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
 
