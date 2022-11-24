@@ -9,6 +9,8 @@
 
 It is an integration module between Hyva Theme and [Magento 2 Blog Plus](https://magefan.com/magento2-blog-extension/pricing) by Magefan.
 
+If you use Magento 2 Blog Extra, then use [magefan/hyva-theme-blog-extra](https://github.com/magefan/hyva-theme-blog-extra)
+
 <a href="https://github.com/magefan/hyva-theme-blog-plus/archive/refs/heads/main.zip"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
 
 
