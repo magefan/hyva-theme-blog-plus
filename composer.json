@@ -1,0 +1,17 @@
+{
+    "name": "magefan/hyva-theme-blog-plus",
+    "description": "Hyva Theme Magefan Blog Plus",
+    "type": "magento2-module",
+    "require": {
+        "magefan/hyva-theme-blog": ">=2.0.1"
+    },
+    "version": "2.0.1",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Hyva\\MagefanBlogPlus\\": ""
+        }
+    }
+}
