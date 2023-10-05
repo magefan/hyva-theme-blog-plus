@@ -3,9 +3,9 @@
     "description": "Hyva Theme Magefan Blog Plus",
     "type": "magento2-module",
     "require": {
-        "magefan/hyva-theme-blog": ">=2.0.1"
+        "magefan/hyva-theme-blog": ">=2.0.4"
     },
-    "version": "2.0.1",
+    "version": "2.0.2",
     "autoload": {
         "files": [
             "registration.php"
